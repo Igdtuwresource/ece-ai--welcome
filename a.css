@@ -10,7 +10,7 @@ body{
   min-height: 100vh;
   align-items: center;
   justify-content: center;
-  background: #c8d0e3;
+  background: #f2f2f2;
   position: relative;
 }
 body::before{
@@ -158,45 +158,18 @@ input[type="radio"]{
     width: 100%;
   }
 }
-
 .o{
-  font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
 font-family: 'Shadows Into Light', cursive;
 font-family: 'Signika', sans-serif;
-color:#02421a;
-margin-left:10px;
+color:#FF676D;
+margin-left:40px;
 
-border-radius:10px;
-line-height:50px;
-text-align:center;
-width:auto;
-
-}
-.o:hover{
-color:black;
 }
 .b{
-  font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
 font-family: 'Shadows Into Light', cursive;
 font-family: 'Signika', sans-serif;
-color: black;
-margin-left:10px;
-
-border-radius:10px;
-line-height:50px;
-text-align:center;
-width:auto;
-}
-.b:hover{
-color:#02421a;
-}
-
-.job a{
-    color:#FF676D;
-    text-decoration: none;;
-
-}
-.job a:hover{
-    color:blue;
-    text-decoration:underline;
+color:black;
+margin-left:40px;
 }
